@@ -1,0 +1,163 @@
+,shot_id,game,events,country,province,shot_type,set_play,shot_outcome,shot_pressure,assist_type,build_up_passes,shot_method,match_outcome,winning_margin,championship_stage,distance_from_goal,angle
+0,Shot_1,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,8.0,Left Foot,Draw,Draw,Provincial Championship,14.56021978,-15.9453959
+1,Shot_2,Armagh v Cavan,Shot,Armagh,Ulster,Goal Attempt,Open Play,Wide,Low,Hand Pass,4.0,Right Foot,Draw,Draw,Provincial Championship,11.18033989,26.56505118
+2,Shot_3,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Medium,Kick Pass,3.0,Right Foot,Draw,Draw,Provincial Championship,34.20526275,15.2551187
+3,Shot_4,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Post,Low,Kick Pass,16.0,Right Foot,Draw,Draw,Provincial Championship,20.24845673,32.90524292
+4,Shot_5,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Short,High,Hand Pass,10.0,Right Foot,Draw,Draw,Provincial Championship,32.24903099,-7.125016349
+5,Shot_6,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,2.0,Right Foot,Draw,Draw,Provincial Championship,29.12043956,15.9453959
+6,Shot_7,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,6.0,Right Foot,Draw,Draw,Provincial Championship,41.14608122,-25.94229549
+7,Shot_8,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,12.0,Right Foot,Draw,Draw,Provincial Championship,27.80287755,52.30575953
+8,Shot_9,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,7.0,Right Foot,Draw,Draw,Provincial Championship,36.12478374,-4.763641691
+9,Shot_10,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Short,Medium,Hand Pass,2.0,Left Foot,Draw,Draw,Provincial Championship,36.76955262,22.38013505
+10,Shot_11,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,8.0,Left Foot,Draw,Draw,Provincial Championship,37.58989226,28.61045967
+11,Shot_12,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,3.0,Right Foot,Draw,Draw,Provincial Championship,33.61547263,22.75097634
+12,Shot_13,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Medium,Hand Pass,4.0,Right Foot,Draw,Draw,Provincial Championship,39.8246155,-38.88449643
+13,Shot_14,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,1.0,Right Foot,Draw,Draw,Provincial Championship,31.38470965,-22.4794344
+14,Shot_15,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,2.0,Right Foot,Draw,Draw,Provincial Championship,15.65247584,-26.56505118
+15,Shot_16,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,5.0,Right Foot,Draw,Draw,Provincial Championship,29.68164416,57.38075693
+16,Shot_17,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Medium,Hand Pass,11.0,Right Foot,Draw,Draw,Provincial Championship,36.40054945,20.92450174
+17,Shot_18,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Medium,Hand Pass,6.050314465408805,Left Foot,Draw,Draw,Provincial Championship,26.07680962,-32.47119229
+18,Shot_19,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Wide,Low,Free Kick Won,9.0,Right Foot,Draw,Draw,Provincial Championship,37.44329045,34.11447295
+19,Shot_20,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Medium,Hand Pass,2.0,Right Foot,Draw,Draw,Provincial Championship,32.14031736,-5.355825043
+20,Shot_21,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,9.0,Left Foot,Draw,Draw,Provincial Championship,27.20294102,53.97262661
+21,Shot_22,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Low,Kick Pass,1.0,Right Foot,Draw,Draw,Provincial Championship,39.59797975,45.0
+22,Shot_23,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,3.0,Right Foot,Draw,Draw,Provincial Championship,22.0,0.0
+23,Shot_24,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Short,Low,Hand Pass,11.0,Left Foot,Draw,Draw,Provincial Championship,32.24903099,29.7448813
+24,Shot_25,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Short,Low,Hand Pass,14.0,Right Foot,Draw,Draw,Provincial Championship,51.623638,-8.914926957
+25,Shot_26,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Medium,Hand Pass,11.0,Right Foot,Draw,Draw,Provincial Championship,25.96150997,15.64224646
+26,Shot_27,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Wide,Low,Other,0.0,Right Foot,Draw,Draw,Provincial Championship,39.81205847,-11.59217541
+27,Shot_28,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,High,Hand Pass,7.0,Right Foot,Draw,Draw,Provincial Championship,18.11077028,6.340191746
+28,Shot_29,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,High,Kick Pass,2.0,Left Foot,Draw,Draw,Provincial Championship,31.06444913,33.17851166
+29,Shot_30,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Blocked,High,Other,0.0,Right Foot,Draw,Draw,Provincial Championship,20.24845673,20.22485943
+30,Shot_31,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,High,Hand Pass,7.0,Right Foot,Draw,Draw,Provincial Championship,36.76955262,-22.38013505
+31,Shot_32,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,6.0,Right Foot,Draw,Draw,Provincial Championship,41.18252056,-29.0546041
+32,Shot_33,Armagh v Cavan,Shot,Armagh,Ulster,Goal Attempt,Open Play,Goal,Medium,Hand Pass,9.0,Right Foot,Draw,Draw,Provincial Championship,12.36931688,14.03624347
+33,Shot_34,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Free Kick from Ground,Point,Low,Free Kick Won,1.0,Right Foot,Draw,Draw,Provincial Championship,47.85394446,-10.84030545
+34,Shot_35,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,5.0,Left Foot,Draw,Draw,Provincial Championship,33.61547263,30.37912601
+35,Shot_36,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Short,High,Hand Pass,9.0,Left Foot,Draw,Draw,Provincial Championship,36.40054945,-15.9453959
+36,Shot_37,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,0.0,Right Foot,Draw,Draw,Provincial Championship,15.65247584,26.56505118
+37,Shot_38,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Blocked,High,Hand Pass,1.0,Right Foot,Draw,Draw,Provincial Championship,38.60051813,16.55707138
+38,Shot_39,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Free Kick from Hands,Wide,Low,Free Kick Won,1.0,Left Foot,Draw,Draw,Provincial Championship,37.48332963,-46.08092419
+39,Shot_40,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Kick Pass,7.0,Left Foot,Draw,Draw,Provincial Championship,42.3792402,19.29004622
+40,Shot_41,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,6.050314465408805,Right Foot,Draw,Draw,Provincial Championship,34.0147027,24.30454927
+41,Shot_42,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Short,Low,Hand Pass,7.0,Right Foot,Draw,Draw,Provincial Championship,37.33630941,7.696051722
+42,Shot_43,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Medium,Kick Pass,26.0,Right Foot,Draw,Draw,Provincial Championship,38.0,0.0
+43,Shot_44,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Wide,Medium,Kick Pass,10.0,Right Foot,Draw,Draw,Provincial Championship,40.19950248,5.710593137
+44,Shot_45,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,2.0,Left Foot,Draw,Draw,Provincial Championship,29.69848481,-45.0
+45,Shot_46,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Free Kick from Hands,Wide,Low,Free Kick Won,1.0,Right Foot,Draw,Draw,Provincial Championship,42.19004622,-31.42956561
+46,Shot_47,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Medium,Hand Pass,6.0,Right Foot,Draw,Draw,Provincial Championship,14.2126704,39.28940686
+47,Shot_48,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,High,Hand Pass,6.0,Right Foot,Draw,Draw,Provincial Championship,18.68154169,15.524111
+48,Shot_49,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,7.0,Right Foot,Draw,Draw,Provincial Championship,34.525353,-10.0079798
+49,Shot_50,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Medium,Hand Pass,3.0,Right Foot,Draw,Draw,Provincial Championship,41.23105626,-14.03624347
+50,Shot_51,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Free Kick from Ground,Point,Low,Free Kick Won,2.0,Left Foot,Draw,Draw,Provincial Championship,20.59126028,29.0546041
+51,Shot_52,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,10.0,Right Foot,Draw,Draw,Provincial Championship,38.20994635,42.8789036
+52,Shot_53,Armagh v Cavan,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,5.0,Left Foot,Draw,Draw,Provincial Championship,40.52159918,-15.75117366
+53,Shot_54,Armagh v Cavan,Shot,Cavan,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,29.0,Right Foot,Draw,Draw,Provincial Championship,41.48493703,-15.37625125
+54,Shot_55,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,3.0,Right Foot,Draw,Draw,Provincial Championship,25.05992817,-61.38954033
+55,Shot_56,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Wide,Medium,Hand Pass,6.0,Right Foot,Draw,Draw,Provincial Championship,30.8058436,13.13402231
+56,Shot_57,Down v Armagh,Shot,Down,Ulster,Point Attempt,Free Kick from Hands,Wide,Low,Free Kick Won,5.0,Right Foot,Draw,Draw,Provincial Championship,36.23534186,39.40066066
+57,Shot_58,Down v Armagh,Shot,Down,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,8.0,Right Foot,Draw,Draw,Provincial Championship,38.47076812,8.972626615
+58,Shot_59,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,12.0,Right Foot,Draw,Draw,Provincial Championship,41.0,0.0
+59,Shot_60,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Point,Medium,Kick Pass,9.0,Left Foot,Draw,Draw,Provincial Championship,34.0,61.92751306
+60,Shot_61,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Medium,Kick Pass,2.0,Left Foot,Draw,Draw,Provincial Championship,26.92582404,68.19859051
+61,Shot_62,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Low,Kick Pass,2.0,Left Foot,Draw,Draw,Provincial Championship,36.61966685,55.0079798
+62,Shot_63,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,3.0,Left Foot,Draw,Draw,Provincial Championship,30.88689042,60.9453959
+63,Shot_64,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Point,Medium,Hand Pass,10.0,Right Foot,Draw,Draw,Provincial Championship,22.09072203,-5.194428908
+64,Shot_65,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,11.0,Right Foot,Draw,Draw,Provincial Championship,34.71310992,-48.50353164
+65,Shot_66,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Ground,Wide,Low,Free Kick Won,3.0,Right Foot,Draw,Draw,Provincial Championship,52.34500931,46.5481577
+66,Shot_67,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,7.0,Right Foot,Draw,Draw,Provincial Championship,42.20189569,13.706961
+67,Shot_68,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,9.0,Left Foot,Draw,Draw,Provincial Championship,40.04996879,-2.862405226
+68,Shot_69,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Point,Low,Kick Pass,23.0,Right Foot,Draw,Draw,Provincial Championship,19.02629759,-3.012787504
+69,Shot_70,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Kick Pass,6.050314465408805,Left Foot,Draw,Draw,Provincial Championship,16.2788206,42.51044708
+70,Shot_71,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Wide,Low,Free Kick Won,4.0,Left Foot,Draw,Draw,Provincial Championship,30.59411708,-11.30993247
+71,Shot_72,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Medium,Hand Pass,7.0,Left Foot,Draw,Draw,Provincial Championship,41.03656906,-43.02506599
+72,Shot_73,Down v Armagh,Shot,Down,Ulster,Goal Attempt,Open Play,Goal,High,Kick Pass,17.0,Palmed,Draw,Draw,Provincial Championship,4.0,0.0
+73,Shot_74,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Wide,High,Other,0.0,Right Foot,Draw,Draw,Provincial Championship,21.09502311,-5.440332031
+74,Shot_75,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Ground,Short,Low,Free Kick Won,15.0,Left Foot,Draw,Draw,Provincial Championship,54.58937626,28.44292862
+75,Shot_76,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Short,Low,Free Kick Won,2.0,Right Foot,Draw,Draw,Provincial Championship,37.01351105,51.58194466
+76,Shot_77,Down v Armagh,Shot,Down,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,11.0,Right Foot,Draw,Draw,Provincial Championship,34.05877273,3.366460663
+77,Shot_78,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Short,Low,Free Kick Won,4.0,Left Foot,Draw,Draw,Provincial Championship,47.80167361,37.34934904
+78,Shot_79,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Blocked,Medium,Hand Pass,11.0,Right Foot,Draw,Draw,Provincial Championship,29.73213749,47.72631099
+79,Shot_80,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,High,Hand Pass,13.0,Left Foot,Draw,Draw,Provincial Championship,30.52867504,-58.39249775
+80,Shot_81,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,1.0,Right Foot,Draw,Draw,Provincial Championship,20.80865205,35.21759297
+81,Shot_82,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Medium,Hand Pass,6.0,Right Foot,Draw,Draw,Provincial Championship,39.11521443,32.47119229
+82,Shot_83,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,7.0,Left Foot,Draw,Draw,Provincial Championship,17.02938637,-40.23635831
+83,Shot_84,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,3.0,Right Foot,Draw,Draw,Provincial Championship,21.21320344,8.130102354
+84,Shot_85,Down v Armagh,Shot,Down,Ulster,Point Attempt,Free Kick from Hands,Wide,Low,Free Kick Won,4.0,Right Foot,Draw,Draw,Provincial Championship,46.0,0.0
+85,Shot_86,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Wide,Low,Hand Pass,15.0,Right Foot,Draw,Draw,Provincial Championship,46.09772229,12.52880771
+86,Shot_87,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Medium,Hand Pass,3.0,Right Foot,Draw,Draw,Provincial Championship,41.62931659,24.1022345
+87,Shot_88,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Point,Low,Free Kick Won,4.0,Left Foot,Draw,Draw,Provincial Championship,22.20360331,-35.83765295
+88,Shot_89,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,0.0,Right Foot,Draw,Draw,Provincial Championship,46.0,0.0
+89,Shot_90,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Kick Pass,19.0,Right Foot,Draw,Draw,Provincial Championship,35.60898763,-51.84277341
+90,Shot_91,Down v Armagh,Shot,Armagh,Ulster,Goal Attempt,Open Play,Goal,Low,Hand Pass,1.0,Right Foot,Draw,Draw,Provincial Championship,6.403124237,-51.34019175
+91,Shot_92,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Point,Low,Kick Pass,3.0,Right Foot,Draw,Draw,Provincial Championship,28.7923601,69.67686317
+92,Shot_93,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Wide,Low,Kick Pass,1.0,Left Foot,Draw,Draw,Provincial Championship,30.0,-53.13010235
+93,Shot_94,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Point,Low,Kick Pass,7.0,Fisted Point,Draw,Draw,Provincial Championship,16.15549442,68.19859051
+94,Shot_95,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,19.0,Right Foot,Draw,Draw,Provincial Championship,42.19004622,58.57043439
+95,Shot_96,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Short,Medium,Kick Pass,9.0,Right Foot,Draw,Draw,Provincial Championship,32.24903099,60.2551187
+96,Shot_97,Down v Armagh,Shot,Down,Ulster,Goal Attempt,Open Play,Goal,Low,Hand Pass,5.0,Right Foot,Draw,Draw,Provincial Championship,11.66190379,59.03624347
+97,Shot_98,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Wide,Medium,Hand Pass,11.0,Right Foot,Draw,Draw,Provincial Championship,34.71310992,-48.50353164
+98,Shot_99,Down v Armagh,Shot,Down,Ulster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,8.0,Left Foot,Draw,Draw,Provincial Championship,36.61966685,55.0079798
+99,Shot_100,Down v Armagh,Shot,Down,Ulster,Point Attempt,Open Play,Point,Low,Hand Pass,7.0,Left Foot,Draw,Draw,Provincial Championship,42.0,0.0
+100,Shot_101,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Medium,Hand Pass,2.0,Left Foot,Draw,Draw,Provincial Championship,28.60069929,36.46923439
+101,Shot_102,Down v Armagh,Shot,Armagh,Ulster,Point Attempt,Open Play,Wide,Low,Kick Pass,1.0,Left Foot,Draw,Draw,Provincial Championship,32.75667871,58.73626831
+102,Shot_103,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,Low,Kick Pass,2.0,Right Foot,Draw,Draw,AI Final,29.96664813,25.70995378
+103,Shot_104,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Wide,Medium,Hand Pass,9.0,Left Foot,Draw,Draw,AI Final,25.0,36.86989765
+104,Shot_105,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Point,Medium,Kick Pass,2.0,Right Foot,Draw,Draw,AI Final,22.47220505,-57.72435569
+105,Shot_106,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,Low,Hand Pass,1.0,Right Foot,Draw,Draw,AI Final,33.83784863,-55.84030545
+106,Shot_107,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,3.0,Right Foot,Draw,Draw,AI Final,19.0,0.0
+107,Shot_108,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Wide,Low,Hand Pass,1.0,Right Foot,Draw,Draw,AI Final,42.80186912,-37.40535663
+108,Shot_109,Dublin v Kerry,Shot,Kerry,Munster,Goal Attempt,Open Play,Saved,Medium,Hand Pass,16.0,Right Foot,Draw,Draw,AI Final,8.062257748,7.125016349
+109,Shot_110,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Short,Medium,Hand Pass,16.0,Right Foot,Draw,Draw,AI Final,36.40054945,-52.81529355
+110,Shot_111,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Short,Medium,Kick Pass,10.0,Left Foot,Draw,Draw,AI Final,32.52691193,-45.0
+111,Shot_112,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Wide,Low,Hand Pass,7.0,Right Foot,Draw,Draw,AI Final,32.24903099,-29.7448813
+112,Shot_113,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Point,Medium,Kick Pass,4.0,Right Foot,Draw,Draw,AI Final,22.627417,45.0
+113,Shot_114,Dublin v Kerry,Shot,Kerry,Munster,Goal Attempt,Penalty,Saved,Low,Free Kick Won,5.0,Right Foot,Draw,Draw,AI Final,11.0,0.0
+114,Shot_115,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,45m Kick,Point,Low,Possession Recovered,0.0,Right Foot,Draw,Draw,AI Final,47.4341649,-18.43494882
+115,Shot_116,Dublin v Kerry,Shot,Kerry,Munster,Goal Attempt,Open Play,Point,Medium,Kick Pass,2.0,Left Foot,Draw,Draw,AI Final,13.60147051,-53.97262661
+116,Shot_117,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Wide,Low,Hand Pass,4.0,Right Foot,Draw,Draw,AI Final,39.59797975,45.0
+117,Shot_118,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Wide,Low,Hand Pass,4.0,Right Foot,Draw,Draw,AI Final,42.95346319,-24.77514057
+118,Shot_119,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,Medium,Kick Pass,1.0,Fisted Point,Draw,Draw,AI Final,11.66190379,59.03624347
+119,Shot_120,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,4.0,Right Foot,Draw,Draw,AI Final,19.79898987,45.0
+120,Shot_121,Dublin v Kerry,Shot,Dublin,Leinster,Goal Attempt,Open Play,Goal,Low,Hand Pass,3.0,Right Foot,Draw,Draw,AI Final,12.64911064,-18.43494882
+121,Shot_122,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Short,Medium,Kick Pass,3.0,Right Foot,Draw,Draw,AI Final,41.34005322,-32.15229514
+122,Shot_123,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Free Kick from Hands,Wide,Low,Free Kick Won,7.0,Right Foot,Draw,Draw,AI Final,46.69047012,-46.73570459
+123,Shot_124,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Blocked,Medium,Hand Pass,7.0,Right Foot,Draw,Draw,AI Final,30.08321791,-21.44773633
+124,Shot_125,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,45m Kick,Point,Low,Possession Recovered,0.0,Right Foot,Draw,Draw,AI Final,46.32493929,-13.73626831
+125,Shot_126,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,3.0,Right Foot,Draw,Draw,AI Final,19.6468827,-14.74356284
+126,Shot_127,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Free Kick from Ground,Point,Low,Free Kick Won,6.0,Right Foot,Draw,Draw,AI Final,50.21951812,35.27242145
+127,Shot_128,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,Medium,Possession Recovered,0.0,Right Foot,Draw,Draw,AI Final,19.84943324,40.91438322
+128,Shot_129,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Wide,Low,Hand Pass,6.0,Right Foot,Draw,Draw,AI Final,39.40812099,-35.7066914
+129,Shot_130,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,Low,Hand Pass,2.0,Right Foot,Draw,Draw,AI Final,12.52996409,28.61045967
+130,Shot_131,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Free Kick from Ground,Point,Low,Free Kick Won,1.0,Right Foot,Draw,Draw,AI Final,40.24922359,26.56505118
+131,Shot_132,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,15.0,Right Foot,Draw,Draw,AI Final,19.20937271,38.65980825
+132,Shot_133,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,10.0,Right Foot,Draw,Draw,AI Final,26.92582404,15.06848816
+133,Shot_134,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,45m Kick,Point,Low,Possession Recovered,0.0,Right Foot,Draw,Draw,AI Final,45.54119015,-8.84181456
+134,Shot_135,Dublin v Kerry,Shot,Kerry,Munster,Goal Attempt,Open Play,Saved,Low,Hand Pass,5.0,Right Foot,Draw,Draw,AI Final,14.2126704,-39.28940686
+135,Shot_136,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Blocked,Medium,Possession Recovered,0.0,Left Foot,Draw,Draw,AI Final,17.80449381,51.84277341
+136,Shot_137,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,45m Kick,Point,Low,Possession Recovered,0.0,Right Foot,Draw,Draw,AI Final,47.75981575,-19.57312583
+137,Shot_138,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,High,Hand Pass,3.0,Fisted Point,Draw,Draw,AI Final,10.44030651,-73.30075577
+138,Shot_139,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Point,Low,Kick Pass,11.0,Right Foot,Draw,Draw,AI Final,32.55764119,-10.61965528
+139,Shot_140,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Short,Low,Kick Pass,7.0,Left Foot,Draw,Draw,AI Final,38.27531842,-19.85521437
+140,Shot_141,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Blocked,High,Hand Pass,6.0,Right Foot,Draw,Draw,AI Final,13.89244399,-30.25643716
+141,Shot_142,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,6.0,Right Foot,Draw,Draw,AI Final,15.13274595,7.594643369
+142,Shot_143,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,Medium,Hand Pass,4.0,Left Foot,Draw,Draw,AI Final,33.37663854,8.615648184
+143,Shot_144,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Point,Medium,Kick Pass,1.0,Left Foot,Draw,Draw,AI Final,34.05877273,-49.76364169
+144,Shot_145,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Wide,Medium,Kick Pass,4.0,Left Foot,Draw,Draw,AI Final,36.23534186,-50.59933934
+145,Shot_146,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,1.0,Right Foot,Draw,Draw,AI Final,29.73213749,19.65382406
+146,Shot_147,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,Medium,Hand Pass,16.0,Right Foot,Draw,Draw,AI Final,36.138622,14.42077313
+147,Shot_148,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Short,Medium,Hand Pass,8.0,Left Foot,Draw,Draw,AI Final,37.10795063,-14.03624347
+148,Shot_149,Dublin v Kerry,Shot,Kerry,Munster,Goal Attempt,Open Play,Goal,Medium,Hand Pass,4.0,Left Foot,Draw,Draw,AI Final,14.86606875,-19.65382406
+149,Shot_150,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Wide,Low,Kickout Won,0.0,Right Foot,Draw,Draw,AI Final,35.60898763,-38.15722659
+150,Shot_151,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Point,Low,Hand Pass,6.0,Right Foot,Draw,Draw,AI Final,35.4682957,49.57392126
+151,Shot_152,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Point,High,Hand Pass,10.0,Right Foot,Draw,Draw,AI Final,17.80449381,-51.84277341
+152,Shot_153,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Short,Low,Hand Pass,2.0,Left Foot,Draw,Draw,AI Final,29.41088234,-54.68878656
+153,Shot_154,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Free Kick from Hands,Point,Low,Free Kick Won,0.0,Right Foot,Draw,Draw,AI Final,22.02271555,-50.52754015
+154,Shot_155,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Point,Low,Hand Pass,4.0,Left Foot,Draw,Draw,AI Final,28.0,0.0
+155,Shot_156,Dublin v Kerry,Shot,Kerry,Munster,Point Attempt,Open Play,Point,Medium,Hand Pass,2.0,Left Foot,Draw,Draw,AI Final,25.61249695,51.34019175
+156,Shot_157,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Wide,Low,Hand Pass,9.0,Right Foot,Draw,Draw,AI Final,41.14608122,25.94229549
+157,Shot_158,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Wide,Low,Hand Pass,5.0,Right Foot,Draw,Draw,AI Final,32.55764119,-42.51044708
+158,Shot_159,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Wide,Low,Hand Pass,7.0,Right Foot,Draw,Draw,AI Final,45.0,0.0
+159,Shot_160,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Point,Low,Hand Pass,3.0,Right Foot,Draw,Draw,AI Final,39.62322551,-42.95459151
+160,Shot_161,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Open Play,Short,Medium,Hand Pass,9.0,Left Foot,Draw,Draw,AI Final,43.8634244,46.84761027
+161,Shot_162,Dublin v Kerry,Shot,Dublin,Leinster,Point Attempt,Free Kick from Ground,Wide,Low,Free Kick Won,9.0,Right Foot,Draw,Draw,AI Final,51.03920062,-55.37584492
